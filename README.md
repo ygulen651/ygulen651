@@ -1,41 +1,43 @@
-<h1 align="center"> Hi, I'm Yusuf 👋 </h1>
-<p align="center">
-  <i>A passionate web developer with a background in web design, coding, and automation.</i><br/>
-  🎓 Web Design & Coding graduate from <b>Ahi Evran University</b>
-</p>
+<details>
+<summary><img src="./assets/hero.svg" width="1200" alt="Yusuf Gülen — piksel dünyasındaki geliştirici atölyesi. Atölyeyi açmak için tıkla." /></summary>
 
----
+<img src="./assets/workshop.svg" width="1200" alt="Atölyenin ışıkları yandı. Hoş geldin!" />
 
-### 💻 About Me
+### Atölyeye hoş geldin
 
-- 🎓 Graduated from Ahi Evran University in Web Design & Coding  
-- 💡 Experienced in building full-stack applications and automation systems  
-- ⚙️ Interested in workflow automation with **n8n**  
-- 🌐 Skilled in modern web frameworks like **Next.js** and CMS platforms like **WordPress**  
-- 🚀 Always learning new tools in web technologies and backend systems  
+Web siteleri, uygulamalar ve otomasyonlar geliştiriyorum. Tasarımla kodun buluştuğu yerde çalışmayı seviyorum.
 
----
+[Projelerimi keşfet](https://github.com/ygulen651?tab=repositories) · [Birlikte çalışalım](mailto:ygulen651@gmail.com)
 
-### ⚙️ Tech Stack
+</details>
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p align="center"><b>Merhaba, ben Yusuf Gülen.</b><br />Web geliştirme, tasarım ve otomasyonla fikirleri çalışan ürünlere dönüştürüyorum.</p>
 
-#### ⚙️ Tools & Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ED5A73?style=flat&logo=n8n&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<img src="./assets/journey.svg" width="1200" alt="Bir fikir. Bir sonraki deneme. Çalışan bir ürün." />
 
----
+## Hakkımda
 
-### 📫 Let’s Connect
+- Ahi Evran Üniversitesi Web Tasarımı ve Kodlama mezunuyum.
+- Next.js ve WordPress ile web projeleri geliştiriyorum.
+- n8n ile iş akışlarını otomatikleştirmeye ilgi duyuyorum.
+- Arayüzden arka uca, bir ürünün bütününü kurmayı seviyorum.
 
-- 📩 Email: [ygulen651@gmail.com](mailto:ygulen651@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-g%C3%BClen-01455b1a9/)  
+## Projelerim
 
----
+| Proje | Neler var? |
+| :--- | :--- |
+| **[Ugi Ajans](https://github.com/ygulen651/ugi-net-)** | Türkçe ve İngilizce içerik, tema seçimi ve etkileşimli bölümler içeren yaratıcı ajans sitesi. |
+| **[Detay Sigorta](https://github.com/ygulen651/detay-sigorta)** | Next.js ile geliştirilen, içerik yönetim paneli bulunan kurumsal web sitesi. |
+| **[Kelime Avcısı](https://github.com/ygulen651/kelimeav-c-s-weble)** | Kelime Avcısı uygulaması için hazırladığım statik tanıtım sitesi. |
 
+[Diğer projelerime göz at](https://github.com/ygulen651?tab=repositories)
+
+## Araç çantam
+
+**Diller:** JavaScript · Python  
+**Web:** Next.js · Node.js · WordPress  
+**Otomasyon ve araçlar:** n8n · Git · Linux
+
+## İletişim
+
+[LinkedIn](https://www.linkedin.com/in/yusuf-g%C3%BClen-01455b1a9/) · [E-posta](mailto:ygulen651@gmail.com)
