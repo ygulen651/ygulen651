@@ -35,11 +35,19 @@ Ahi Evran Üniversitesi **Web Tasarımı ve Kodlama** mezunuyum. Next.js ve Word
 
 ## Kullandığım teknolojiler
 
-<img src="./assets/stack.svg" width="1200" alt="Araç çantam: JavaScript, Python, Next.js, Node.js, WordPress, n8n, Git ve Linux." />
+<img src="./assets/technologies.svg" width="1200" alt="Sırayla kayan dil ve araç ikonları: Bootstrap, CSS3, Docker, Express, Git, HTML5, JavaScript, Laravel, Linux, MySQL, MariaDB, Next.js, NGINX, Node.js, Nuxt, PHP, PostgreSQL, React, SQLite, Tailwind CSS, TypeScript, Vue.js." />
 
 **JavaScript · Python · Next.js · Node.js · WordPress · n8n · Git · Linux**
 
+<details>
+<summary>Şeritteki tüm diller ve araçlar</summary>
+
+Bootstrap · CSS3 · Docker · Express · Git · HTML5 · JavaScript · Laravel · Linux · MySQL · MariaDB · Next.js · NGINX · Node.js · Nuxt · PHP · PostgreSQL · React · SQLite · Tailwind CSS · TypeScript · Vue.js
+
+</details>
+
 ## İletişim
+
 
 <p>
 <a href="mailto:ygulen651@gmail.com"><img src="./assets/contact-email.svg" width="49%" alt="Birlikte üretelim. E-posta: ygulen651@gmail.com" /></a>
